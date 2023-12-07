@@ -16,11 +16,20 @@ Here's what you'll need for this project:
 
 - 1 Arduino Uno R3 board (you can use other boards as well, but I used this one)
 
+- ![Uploading IMG_1805.jpg…]()
+
+
 - 1 breadboard (any size you prefer, but I used a full-size one)
 
 - 1 12V lock
 
+- ![IMG_1802](https://github.com/samivesal/Arduino-DoorLock/assets/93865547/4c7c8172-8880-481a-ad55-835361c77b03)
+
+
 - 1 RFID-RC522 module
+
+- ![IMG_1804](https://github.com/samivesal/Arduino-DoorLock/assets/93865547/7c899926-b676-4131-8baf-9a41bebc3c4a)
+
 
 - Several male-to-male jumper wires
 
