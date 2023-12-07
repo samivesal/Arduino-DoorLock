@@ -5,6 +5,7 @@ Hello everyone,
 
 After deciding to pursue both software and hardware programming alongside my university studies, I made the decision to purchase an Arduino board and start working on various projects. The first step I took was buying a breadboard, an Arduino Uno R3 board, a full-size breadboard, 5 LEDs, and a mini project to learn Arduino programming. After that, I decided to work on a practical project, which is the smart card lock. I have uploaded the project codes for you to see.
 
+![IMG_1795](https://github.com/samivesal/Arduino-DoorLock/assets/93865547/dd7908db-4a04-468a-a450-e1c56ee6009e)
 
 
 The basic idea of the project is that when you hold a card in front of a module, a lock opens. I have also provided images for you to see.
